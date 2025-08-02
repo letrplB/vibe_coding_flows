@@ -1,19 +1,11 @@
 # Vibe Coding Workflows
 
-A collection of advanced AI-powered workflow systems designed to orchestrate complex development tasks through structured agent collaboration and intelligent automation.
+A collection of advanced AI-powered workflow systems designed to enhance development productivity through structured automation and intelligent collaboration.
 
 ## Workflows
 
 ### CLAUDE_workflow
-A production-ready three-agent workflow system that orchestrates specialized AI agents (Lead, Manager, Worker) to accomplish complex tasks through structured collaboration. Features include:
-
-- **Multi-Agent Architecture**: Lead (strategic oversight), Manager (adaptive coordination), Worker (specialized execution)
-- **Structured Communication**: Assignment tracking, progress milestones, decision logging, quality gates
-- **Individual Workspaces**: Private canvases for each agent's planning and execution
-- **Flexible Specialization**: Multiple agent types and modes for different task requirements
-- **Quality Focus**: Multiple review gates, clear success criteria, comprehensive documentation
-
-Perfect for complex multi-step projects, large codebase analysis, feature implementation, system refactoring, and documentation generation.
+A sophisticated three-agent workflow system (Lead, Manager, Worker) that orchestrates complex development tasks through structured collaboration. See the [CLAUDE_workflow README](CLAUDE_workflow/README.md) for detailed documentation.
 
 ## Getting Started
 
